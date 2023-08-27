@@ -1,0 +1,26 @@
+.student-card {
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .student-card h3 {
+    margin: 0;
+  }
+  
+  .student-card p {
+    margin: 5px 0;
+  }
+  
+  .student-card button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
